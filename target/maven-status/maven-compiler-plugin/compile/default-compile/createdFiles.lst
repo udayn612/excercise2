@@ -1,0 +1,4 @@
+com/stackroute/configuration/UserConfiguration.class
+com/stackroute/configuration/User.class
+com/stackroute/controller/UserController.class
+com/stackroute/configuration/UserInitializer.class

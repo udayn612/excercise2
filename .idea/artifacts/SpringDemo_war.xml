@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="SpringDemo.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringDemo_war</output-path>
+    <root id="root">
+      <element id="archive" name="SpringDemo.war" />
+    </root>
+  </artifact>
+</component>
